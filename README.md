@@ -26,7 +26,7 @@ I'm a full stack Web, desktop and Mobile developer... and I have ability to the 
 Clone or download this project.
 
 ####  Download by git
-For use this command you need have downloaded git.
+For use this command you need to have git installed on your PC.
 
 Open the terminal on the folder as your choose and type the code below.
 ```bash
