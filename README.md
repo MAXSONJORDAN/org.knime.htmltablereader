@@ -34,20 +34,20 @@ Open the terminal on the folder as your choose and type the code below.
 
 ```
 
-####  Passo 1: 
+####  Step 1: 
 
 Open the Knime Analytics Platform
-####  Passo 2: 
+####  Step 2: 
 
 Open menu: Help->Install New Software.
 
-####  Passo 3: 
+####  Step 3: 
 
 On the install Dialog click on add.
 
 On the Add Repository Click on Local Button and select folder "org.knime.htmltablereader.update" in the Repository downloaded folder and click OK Button.
 
-#### Passo 4:
+#### Step 4:
 
 Check Plugin HTML Table Reader on the list and click on install.
 
