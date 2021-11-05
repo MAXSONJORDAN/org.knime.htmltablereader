@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.knime.htmltablereader.feature_1.0.0.202111051742.jar" id="org.knime.htmltablereader.feature" version="1.0.0.202111051742">
+      <category name="html_table_reader"/>
+   </feature>
+   <category-def name="html_table_reader" label="HTML Table Reader">
+      <description>
+         This is a node thats reads file searching html tags tables like tr, td or th and try convert to a Knime Data Table format.
+      </description>
+   </category-def>
+</site>

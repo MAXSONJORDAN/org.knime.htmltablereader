@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.knime.htmltablereader.feature"
+      label="HTML Table Reader"
+      version="1.0.0.qualifier"
+      provider-name="Maxson Jordan"
+      os="linux,macosx,win32"
+      nl="en_US"
+      arch="x86_64">
+
+   <description url="https://github.com/MAXSONJORDAN/org.knime.htmltablereader">
+      HTML Table Reader
+This is knime node plug-in ,was developed to read a file and
+search for html tables tags like td, th or tr and try convert
+it to knime data table.
+
+🚀 About Me
+I&apos;m a full stack Web, desktop and Mobile developer... and I have
+ability to the learn and apply any dev technologies, in this
+case, knime was a temporary necessity where I don&apos;t finded any
+solution to read html table file and convert it to knime data
+tables.
+
+Authors
+@MAXSONJORDAN
+
+Features
+Read File HTML with Table and Convert to Knime Data Table
+OBS
+For this project is required the Lib JSOUP (https://jsoup.org/).
+   </description>
+
+   <copyright url="https://github.com/MAXSONJORDAN/org.knime.htmltablereader/blob/main/LICENSE">
+      THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE
+SOFTWARE.
+   </copyright>
+
+   <license url="https://github.com/MAXSONJORDAN/org.knime.htmltablereader/blob/main/LICENSE">
+      MIT License
+
+Copyright (c) 2021 Maxson Jordan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+   </license>
+
+   <requires>
+      <import plugin="org.jsoup"/>
+   </requires>
+
+   <plugin
+         id="org.knime.htmltablereader"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
