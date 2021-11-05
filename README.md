@@ -12,3 +12,11 @@ I'm a full stack Web, desktop and Mobile developer... and I have ability to the 
 
 - [@MAXSONJORDAN](https://www.github.com/MAXSONJORDAN)
 
+
+## Features
+
+- Read File HTML with Table and Convert to Knime Data Table
+
+## OBS
+
+- For this project is required the Lib JSOUP (https://jsoup.org/).
