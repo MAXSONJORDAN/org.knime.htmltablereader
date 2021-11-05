@@ -51,5 +51,5 @@ On the Add Repository Click on Local Button and select folder "org.knime.htmltab
 
 Check Plugin HTML Table Reader on the list and click on install.
 
-Restart Knime and enjoy.
+Restart Knime and enjoy it.
     
