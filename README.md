@@ -20,3 +20,36 @@ I'm a full stack Web, desktop and Mobile developer... and I have ability to the 
 ## OBS
 
 - For this project is required the Lib JSOUP (https://jsoup.org/).
+
+## Installation
+
+Clone or download this project.
+
+####  Download by git
+For use this command you need have downloaded git.
+
+Open the terminal on the folder as your choose and type the code below.
+```bash
+  git clone https://github.com/MAXSONJORDAN/org.knime.htmltablereader
+
+```
+
+####  Passo 1: 
+
+Open the Knime Analytics Platform
+####  Passo 2: 
+
+Open menu: Help->Install New Software.
+
+####  Passo 3: 
+
+On the install Dialog click on add.
+
+On the Add Repository Click on Local Button and select folder "org.knime.htmltablereader.update" in the Repository downloaded folder and click OK Button.
+
+#### Passo 4:
+
+Check Plugin HTML Table Reader on the list and click on install.
+
+Restart Knime and enjoy.
+    
